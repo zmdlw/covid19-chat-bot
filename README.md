@@ -1,3 +1,4 @@
 ## Install
+```
   pip install discord
-  pip install beatifulsoup
+  pip install bs4
